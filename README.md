@@ -1,3 +1,3 @@
 # MentornessInternship
 
-Open The Different Branches To access the files
+Open The Different Branches To Access The Files
